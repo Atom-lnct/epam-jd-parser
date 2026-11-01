@@ -4,7 +4,7 @@ import requests
 st.set_page_config(page_title="JD Parser")
 st.title("JD Parser")
 
-BACKEND_URL = "http://localhost:8000/parse-jd"
+BACKEND_URL = "https://jd-parser-780o.onrender.com/parse-jd"
 
 uploaded_file = st.file_uploader("Upload a Job Description PDF", type=["pdf"])
 

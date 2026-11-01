@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymupdf
+pytesseract
+Pillow
+openai
+pydantic
+pymongo
+certifi
+dnspython
+python-multipart
+streamlit
+requests
+python-dotenv
